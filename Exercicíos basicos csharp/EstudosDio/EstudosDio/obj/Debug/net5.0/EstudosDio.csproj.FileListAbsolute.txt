@@ -1,0 +1,16 @@
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.exe
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.deps.json
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.runtimeconfig.json
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.runtimeconfig.dev.json
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.dll
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\ref\EstudosDio.dll
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\bin\Debug\net5.0\EstudosDio.pdb
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.csproj.AssemblyReference.cache
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.AssemblyInfoInputs.cache
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.AssemblyInfo.cs
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.dll
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\ref\EstudosDio.dll
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.pdb
+C:\Users\Allan\Documents\GitHub\csharpStudies\Exercicíos basicos csharp\EstudosDio\EstudosDio\obj\Debug\net5.0\EstudosDio.genruntimeconfig.cache

@@ -1,0 +1,69 @@
+// Para ler e escrever dados em C#, utilizamos os seguintes métodos da classe Console:
+// - Console.ReadLine: lê UMA linha com dado(s) de Entrada (Inputs) do usuário;
+// - Console.WriteLine: imprime um texto de Saída (Output) e pulando uma linha.
+
+using System;
+using System.Collections.Generic;
+namespace Program 
+{
+  class Program 
+  {
+    static void Main(string[] args) 
+    {
+      List<int> listaValores = new List<int>();
+      int valor1 = int.Parse(Console.ReadLine());
+      int valor2 = int.Parse(Console.ReadLine());
+      int valor3 = int.Parse(Console.ReadLine());
+      int valor4 = int.Parse(Console.ReadLine());
+      int valor5 = int.Parse(Console.ReadLine()); 
+      
+      int quantidadePares = 0;
+      int quantidadeImpares = 0;
+      int quantidadePositivos = 0;
+      int quantidadeNegativos = 0;
+      
+      if(valor1 != null){
+        listaValores.Add(valor1);
+      }
+      if(valor2 != null){
+        listaValores.Add(valor2);
+      }
+      if(valor3 != null){
+        listaValores.Add(valor3);
+      }
+      if(valor4 != null){
+        listaValores.Add(valor4);
+      }
+      if(valor5 != null){
+        listaValores.Add(valor5);
+      }
+      for (int i = 0; i < listaValores.Count ; i++) 
+          {
+            if(listaValores[i]%2 == 0){
+              quantidadePares++;
+            }
+            else{
+              quantidadeImpares++;
+            }
+            if(listaValores[i]>0){
+              quantidadePositivos++;
+            }
+            else if(listaValores[i]<0){
+              quantidadeNegativos++;
+            }
+          }
+      
+     
+      
+      
+
+      //TODO: Crie as condições necessárias para calcular cada uma das quantidades.
+      //Observação: Caso queira usar um array uma lista para seus valores, fique à vontade...
+      Console.WriteLine($"{quantidadePares} par(es)" );
+      Console.WriteLine($"{quantidadeImpares} impar(es)" );
+      Console.WriteLine($"{quantidadePositivos} positivo(s)" );
+      Console.WriteLine($"{quantidadeNegativos} negativo(s)" );
+      //TODO: Imprima as outras linhas conforme o enunciado deste desafio.
+    }
+  }
+}
